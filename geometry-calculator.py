@@ -16,7 +16,7 @@ if __name__ == "__main__":
     #print(f"The area of the circle with radius {radius} = {circle_area:.2f}")
 
     # Calculate the area of a rectangle
-    #length = 10
-    #width = 6
-    #rectangle_area = calculator.calculate_rectangle_area(length, width)
-    #print(f"The area of the rectangle with length {length} and width {width} = {rectangle_area}")
+    length = 10
+    width = 6
+    rectangle_area = calculator.calculate_rectangle_area(length, width)
+    print(f"The area of the rectangle with length {length} and width {width} = {rectangle_area}")
